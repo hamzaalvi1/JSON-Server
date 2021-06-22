@@ -1,0 +1,25 @@
+{
+    "contacts": [
+        {
+            "name": "Elon Musk",
+             "email": "elonmusk@email.io",
+             "number": "+12674563163"
+        },
+        {
+            "name": "Hamza Alvi",
+             "email": "hamza.alvi@legendesk.com",
+             "number": "+92341-3108-435"
+        },
+        {
+            "name": "Uzair Taj",
+             "email": "uzair.taj@legendesk.com",
+             "number": "+92341-3161-898"
+        },
+        {
+            "name": "Muhammad Ahsan",
+             "email": "m.ahsan@legendesk.com",
+             "number": "+92341-3161-898"
+        }
+        
+    ]
+}
